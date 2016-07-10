@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_main.xml",
+        "source": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\src\\main\\res\\layout\\ui_main.xml"
+    },
+    {
+        "merged": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shopitem.xml",
+        "source": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\src\\main\\res\\layout\\shopitem.xml"
+    },
+    {
+        "merged": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab1.xml",
+        "source": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\src\\main\\res\\layout\\tab1.xml"
+    },
+    {
+        "merged": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab2.xml",
+        "source": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\src\\main\\res\\layout\\tab2.xml"
+    },
+    {
+        "merged": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_turnto.xml",
+        "source": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\src\\main\\res\\layout\\activity_turnto.xml"
+    },
+    {
+        "merged": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_cycle_viewpager_contet.xml",
+        "source": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\src\\main\\res\\layout\\view_cycle_viewpager_contet.xml"
+    },
+    {
+        "merged": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\titletheme.xml",
+        "source": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\src\\main\\res\\layout\\titletheme.xml"
+    },
+    {
+        "merged": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_banner.xml",
+        "source": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\src\\main\\res\\layout\\view_banner.xml"
+    },
+    {
+        "merged": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_cycle_viewpager_indicator.xml",
+        "source": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\src\\main\\res\\layout\\view_cycle_viewpager_indicator.xml"
+    },
+    {
+        "merged": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab3.xml",
+        "source": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\src\\main\\res\\layout\\tab3.xml"
+    }
+]

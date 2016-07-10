@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gainsboro"
+    android:orientation="vertical" >
+    
+
+    <fragment
+        android:id="@+id/fragment_cycle_viewpager_content"
+        android:name="cn.androiddevelop.cycleviewpager.lib.CycleViewPager"
+        android:layout_width="match_parent"
+        android:layout_height="139dp" />
+     
+     <RelativeLayout
+         android:layout_width="fill_parent"
+         android:background="@color/white"
+         android:layout_height="55dp"
+         android:layout_marginBottom="5dp"
+         android:layout_marginTop="5dp"
+         android:layout_weight="0.03">
+
+         <LinearLayout
+             android:orientation="vertical"
+             android:layout_width="280dp"
+             android:layout_height="match_parent"
+             android:layout_alignParentTop="true"
+             android:layout_alignParentLeft="true"
+             android:layout_alignParentStart="true"
+             android:gravity="center_vertical"
+             >
+
+             <TextView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:textAppearance="?android:attr/textAppearanceSmall"
+                 android:text="地址：朝阳区北三环东路15号化工大学第         二食堂5楼工会俱乐部"
+                 android:layout_marginBottom="5dp"
+                 android:id="@+id/textView" />
+
+         </LinearLayout>
+
+         <ImageView
+             android:layout_width="55dp"
+             android:layout_height="55dp"
+             android:id="@+id/callimage"
+             android:layout_alignParentBottom="true"
+             android:layout_alignParentRight="true"
+             android:layout_marginRight="20dp"
+             android:layout_marginBottom="5dp"
+             android:background="@drawable/itemcallimage"
+             />
+     </RelativeLayout>
+    <RelativeLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1">
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewpager"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <android.support.v4.view.PagerTabStrip
+                android:id="@+id/tabstrip"
+                android:layout_width="wrap_content"
+                android:layout_height="50dip"
+                android:gravity="center" />
+        </android.support.v4.view.ViewPager>
+    </RelativeLayout>
+    
+</LinearLayout>

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\item1.png",
+        "source": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\src\\main\\res\\drawable-xhdpi\\item1.png"
+    },
+    {
+        "merged": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\item4.png",
+        "source": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\src\\main\\res\\drawable-xhdpi\\item4.png"
+    },
+    {
+        "merged": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_name.png",
+        "source": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\collectoff.png",
+        "source": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\src\\main\\res\\drawable-xhdpi\\collectoff.png"
+    },
+    {
+        "merged": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\collecton.png",
+        "source": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\src\\main\\res\\drawable-xhdpi\\collecton.png"
+    },
+    {
+        "merged": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\item3.png",
+        "source": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\src\\main\\res\\drawable-xhdpi\\item3.png"
+    },
+    {
+        "merged": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\itemcallimage.png",
+        "source": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\src\\main\\res\\drawable-xhdpi\\itemcallimage.png"
+    },
+    {
+        "merged": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\item2.png",
+        "source": "D:\\android_work_place\\ViewPagerCycleTest1\\app\\src\\main\\res\\drawable-xhdpi\\item2.png"
+    }
+]
